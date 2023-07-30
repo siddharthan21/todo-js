@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    line-height: 1.6;
+}
+#body{
+    margin: auto;
+    width: 500px;
+    overflow: auto;
+    padding: 3rem 2rem;
+}
+label{
+    display: inline-block;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+button{
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border: 0;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 0;}
+li{
+    color: black
+}
+ul{
+    list-style:decimal;
+}
